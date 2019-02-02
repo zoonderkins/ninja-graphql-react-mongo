@@ -2,7 +2,7 @@
   "name": "react_graphql_mongodb_booklist",
   "version": "1.0.0",
   "description": "React+Graphql+Mongodb+Booklist",
-  "main": "./server/app.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "server": "nodemon app.js",
