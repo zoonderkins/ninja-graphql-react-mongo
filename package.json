@@ -1,6 +1,6 @@
 {
   "name": "react_graphql_mongodb_booklist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React+Graphql+Mongodb+Booklist",
   "main": "app.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ookangzheng",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "concurrently": "^4.1.0",
     "cors": "^2.8.5",
@@ -19,7 +19,7 @@
     "express-graphql": "^0.7.1",
     "graphql": "^14.1.1",
     "lodash": "^4.17.11",
-    "mongoose": "^5.4.8",
+    "mongoose": "^5.4.10",
     "nodemon": "^1.18.9"
   }
 }
